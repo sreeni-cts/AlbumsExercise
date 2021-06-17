@@ -7,7 +7,7 @@
 
 ## Requirements
 -	Minimum SDK Version is 23
--	Used the MVVM Architechture
+-	Used MVVM Architechture in this project
 
 ## List of recommendations for future improvements
 - It is good to get the albums on API itself then the app performance will get improve.
